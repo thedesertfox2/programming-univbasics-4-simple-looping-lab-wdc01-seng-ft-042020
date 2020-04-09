@@ -9,7 +9,7 @@ def loop_message_five_times(message)
   end
 end
 
-message = [/"Hello World."\n/]
+message = "Hello World."
 loop_message_five_times(message)
 
 ##########################################################
@@ -24,5 +24,5 @@ def loop_message_n_times(message1)
 end
 
 message1 = [/"Hello moon."\n/]
-
+number1 = 
 loop_message_n_times(message1)
