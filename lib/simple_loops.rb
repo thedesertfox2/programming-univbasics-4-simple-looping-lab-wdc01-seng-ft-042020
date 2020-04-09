@@ -27,5 +27,5 @@ end
 
 def output_array(quote)
 end
-quote = 
+quote = ["All great achievements", "require time", "- Maya Angelou"]
 
