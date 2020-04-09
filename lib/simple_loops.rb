@@ -25,10 +25,10 @@ end
 
 #########################################################
 
-def output_array(quote)
+def output_array(array)
   counter = 0
   
-  while counter
+  while counter 
 end
-quote = ["Be yourself;", "everyone else is already taken", "- Oscar Wilde"]
+
 
