@@ -40,7 +40,7 @@ def return_string_array(array)
   counter = 0
   
   while counter < 5 do
-    puts array{|array.to_s|
+    puts array{|array.to_s|}
     counter += 1
   end
 end
