@@ -28,7 +28,10 @@ end
 def output_array(array)
   counter = 0
   
-  while counter 
+  while counter < 5 do
+    puts array
+    counter += 1
+  end
 end
 
 
