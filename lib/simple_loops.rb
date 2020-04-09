@@ -39,8 +39,8 @@ end
 def return_string_array(array)
   counter = 0
   
-  while counter < 5 do
-    puts array{|array.to_s|}
+  while counter < array.length do
+    array[count].to_s
     counter += 1
   end
 end
