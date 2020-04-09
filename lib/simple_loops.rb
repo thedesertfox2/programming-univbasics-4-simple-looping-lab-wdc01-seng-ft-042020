@@ -36,7 +36,7 @@ end
 
 ###########################################################
 
-def return_string_array(array)
+def return_string_array(array.to_s)
   counter = 0
   
   while counter < 5 do
