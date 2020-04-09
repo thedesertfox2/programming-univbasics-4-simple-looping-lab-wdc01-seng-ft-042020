@@ -9,5 +9,5 @@ def loop_message_five_times(message)
   end
 end
 
-message = "Hello World."
+message = "/Hello World.\n/"
 loop_message_five_times(message)
