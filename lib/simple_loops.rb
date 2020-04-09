@@ -24,4 +24,5 @@ def loop_message_n_times(message1)
 end
 
 message1 = [/"Hello moon."\n/]
+
 loop_message_n_times(message1)
