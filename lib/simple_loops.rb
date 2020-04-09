@@ -26,6 +26,9 @@ end
 #########################################################
 
 def output_array(quote)
+  counter = 0
+  
+  while counter
 end
-quote = ["All great achievements", "require time", "- Maya Angelou"]
+quote = ["Be yourself;", "everyone else is already taken", "- Oscar Wilde"]
 
