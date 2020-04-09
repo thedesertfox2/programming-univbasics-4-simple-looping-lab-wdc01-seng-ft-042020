@@ -36,11 +36,11 @@ end
 
 ###########################################################
 
-def return_string_array(array.to_s)
+def return_string_array(array)
   counter = 0
   
   while counter < 5 do
-    puts array.to_s
+    puts array
     counter += 1
   end
 end
